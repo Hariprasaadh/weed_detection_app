@@ -1,0 +1,13 @@
+names:
+  0: crop
+  1: weed
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: weed_detection-qd19q
+  url: https://universe.roboflow.com/hariprasaadh-k/weed_detection-qd19q/dataset/1
+  version: 1
+  workspace: hariprasaadh-k
+test: ../test/images
+train: Weed_Detection-1/train/images
+val: Weed_Detection-1/valid/images
